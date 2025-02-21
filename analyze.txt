@@ -1,0 +1,5 @@
+One interesting relationship I found is that words tend to be very close to their respective plural word. For example, "group" has almost
+the same embedding as "groups". The same happens with "island" and "islands".
+
+Another relationship between words that is very noticeable is that words in the same semantic fields tend to be close to each other.
+This is the case for "west", "north", "south" and "east"; "war" and "battle"; or "black" and "white".
